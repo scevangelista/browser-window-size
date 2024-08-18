@@ -75,12 +75,14 @@ body {
 
 #data h1 {
     font-size: 24pt;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    color: #EEE;
 }
 
 #data p {
     font-size: 16pt;
     margin-bottom: 5px;
+    color: #EEE;
 }
 
 #data p#size {
@@ -99,4 +101,10 @@ body {
 #data p:last-child {
     margin-bottom: 0;
     font-size: 10pt;
+}
+
+#data h4 {
+    font-size: 14pt;
+    margin-top: 25px;
+    color: #EEE;
 }
